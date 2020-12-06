@@ -1,0 +1,24 @@
+[
+    {
+        "nama":"Marhaensalenindo Komara",
+        "umur":16,
+        "nis":"11907260",
+        "lulus":false,
+        "hobi":["Ngoding","gaming"],
+        "pembimbing":{
+            "pembimbing1":"Nunuk Mujiana",
+            "pembimbing2":"Ria"
+        }
+    },
+    {
+        "nama":"Marhaensalenindo Komara",
+        "umur":16,
+        "nis":"11907260",
+        "lulus":false,
+        "hobi":["Ngoding","gaming"],
+        "pembimbing":{
+            "pembimbing1":"Nunuk Mujiana",
+            "pembimbing2":"Ria"
+        }
+    }
+]
